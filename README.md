@@ -9,8 +9,8 @@ This project builds a Fake News Detection model using Natural Language Processin
 
 The project is structured both as a monolithic notebook and as a modular step-by-step pipeline.
 
-- **Full End-to-End Notebook**: If you want the full whole notebook, refer to [Fake_News_Model.ipynb](file:///c:/Users/rohet/OneDrive/Documents/CS_WORK/Machine_Learning/Fake-News-Model/Fake_News_Model.ipynb) which runs the entire workflow from start to finish.
-- **Step-by-Step Pipeline**: If you want to build and run the pipeline step-by-step, run [notebooks/pipeline.ipynb](file:///c:/Users/rohet/OneDrive/Documents/CS_WORK/Machine_Learning/Fake-News-Model/notebooks/pipeline.ipynb). Each cell executes a modular pipeline script under `src/`.
+- **Full End-to-End Notebook**: If you want the full whole notebook, refer to [Fake_News_Model.ipynb] which runs the entire workflow from start to finish.
+- **Step-by-Step Pipeline**: If you want to build and run the pipeline step-by-step, run [notebooks/pipeline.ipynb]. Each cell executes a modular pipeline script under `src/`.
 
 ---
 
